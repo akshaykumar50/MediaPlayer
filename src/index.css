@@ -1,0 +1,10 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: "Playfair Display", serif;
+}
+@media(max-width:600px){
+  #h{
+    display: none;
+  }
+}
